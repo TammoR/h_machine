@@ -1,4 +1,4 @@
-
+#+TITLE: (v2) - Experiment 1
 
 * Sampling overview
 - Here: N = 600 mnist images, only the digits (9, 2, 7); M = 16 codes.

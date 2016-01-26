@@ -1,4 +1,4 @@
-#+TITLE: H Machine Material
+#+TITLE: Hamming Machine Material
 
 ** (v2) Single layer optimised Gibbs sampling <2016-01-26 Tue>
 - [[file:v2/reportv2.html][Experiment with 600 MNIST images limited to 3 digits]]
