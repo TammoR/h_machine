@@ -1,0 +1,20 @@
+
+
+* Sampling overview
+- Here: N = 600 mnist images, only the digits (9, 2, 7); M = 16 codes.
+- Convergence is basically reached after ~10 iterations
+- Codes (U) and input units (S) are random binomial (.5) initialised.
+- Ignoring pixels that are >95% the same across all N brings (obviously) a nice speed up.
+- Lambda is sampled at evey iteration.
+- Code profiling: Surprisingly function calls weren't the problem, but there were a bunch of smaller improvements.
+- These 50 iterations take about 10 minutes
+- Sampling in random order and sampling u_md consecutively and s_mn for a fixed m, brings a big improvement!
+
+[[file:./figures/sampling_animation.gif]]
+
+* Inferred codes at every sampling step
+[[file:./figures/mnist_animation.gif]]
+
+* Comparsion of randomly selected inputs and their reconstruction 
+[[file:./figures/comparsion.png]]
+

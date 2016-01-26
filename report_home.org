@@ -1,0 +1,6 @@
+#+TITLE: Hamming Machine Experiments
+
+
+* v2 - single layer optimised Gibbs sampling <2016-01-26 Tue>
+- [[file:v2/reportv2.html][Experiment with 600 MNIST images limited to 3 digits]]
+- [[file:v3/reportv3.html][Experiment with 1000 MNIST images, all possible digits]]
