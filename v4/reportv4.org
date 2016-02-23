@@ -11,28 +11,28 @@ across all all layers. These codes can be thought of as vectors of M binary swit
 - Ignoring pixels that are >95% the same across all N brings (obviously) a nice speed up.
 - Lambda is sampled at evey 2nd iteration.
 
-#+attr_html: :width 1000px
+#+attr_html: :width 800px
 [[./overview.gif]]
 
 * Inferred codes at every sampling step
 ** First hidden layer
-#+attr_html: :width 1000px
+#+attr_html: :width 800px
 [[./layer0.gif]] 
 ** Second hidden layer
-#+attr_html: :width 1000px
+#+attr_html: :width 800px
 [[./layer1.gif]]
 
 * Finale codes (average over the last 10 sampling steps)
 ** First hidden layer
-#+attr_html: :width 1000px
+#+attr_html: :width 800px
 [[./codes1.png]]
 ** Second hidden layer
-#+attr_html: :width 1000px
+#+attr_html: :width 800px
 [[./codes2.png]]
 
 * Comparsion of randomly selected inputs and their reconstruction 
 ** Reconstruction from first hidden layer
-#+attr_html: :width 1000px
+#+attr_html: :width 800px
 [[./recon1.png]]
 ** Reconstruction from second hidden layer
 #+attr_html: :width 200px
