@@ -1,0 +1,16 @@
+#+TITLE: (v2) - Experiment 2
+
+* Sampling overview
+- 1000 mnist images, all digits
+- Codes (U) and input units (S) are random binomial (.5) initialised.
+- Ignoring pixels that are >95% the same across all N brings (obviously) a nice speed up.
+- Lambda is sampled at evey 2nd iteration.
+
+[[file:./sampling_animation.gif]]
+
+* Inferred codes at every sampling step
+[[file:./mnist_animation.gif]]
+
+* Comparsion of randomly selected inputs and their reconstruction 
+[[file:./comparsion.png]]
+
