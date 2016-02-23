@@ -25,15 +25,15 @@ across all all layers. These codes can be thought of as vectors of M binary swit
 * Finale codes (average over the last 10 sampling steps)
 ** First hidden layer
 #+attr_html: :width 800px
-[[./codes1.png]]
+[[file:./codes1.png][file:./codes1.png]]
 ** Second hidden layer
 #+attr_html: :width 800px
 [[./codes2.png]]
 
 * Comparsion of randomly selected inputs and their reconstruction 
 ** Reconstruction from first hidden layer
-#+attr_html: :width 800px
+#+attr_html: :width 300px
 [[./recon1.png]]
 ** Reconstruction from second hidden layer
-#+attr_html: :width 200px
+#+attr_html: :width 300px
 [[./recon2.png]]
