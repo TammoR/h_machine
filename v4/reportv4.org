@@ -12,28 +12,28 @@ across all all layers. These codes can be thought of as vectors of M binary swit
 - Lambda is sampled at evey 2nd iteration.
 
 #+attr_html: :width 800px
-[[./overview.gif]]
+[[file:overview.gif][file:./overview.gif]]
 
 * Inferred codes at every sampling step
 ** First hidden layer
-#+attr_html: :width 800px
-[[./layer0.gif]] 
+#+attr_html: :width 600px
+[[file:layer0.gif][file:./layer0.gif]] 
 ** Second hidden layer
-#+attr_html: :width 800px
-[[./layer1.gif]]
+#+attr_html: :width 600px
+[[file:layer1.gif][file:./layer1.gif]]
 
 * Finale codes (average over the last 10 sampling steps)
 ** First hidden layer
-#+attr_html: :width 800px
+#+attr_html: :width 600px
 [[file:./codes1.png][file:./codes1.png]]
 ** Second hidden layer
-#+attr_html: :width 800px
-[[./codes2.png]]
+#+attr_html: :width 600px
+[[file:./codes2.png][file:./codes2.png]]
 
 * Comparsion of randomly selected inputs and their reconstruction 
 ** Reconstruction from first hidden layer
 #+attr_html: :width 300px
-[[./recon1.png]]
+[[file:./recon1.png][file:./recon1.png]] 
 ** Reconstruction from second hidden layer
 #+attr_html: :width 300px
-[[./recon2.png]]
+[[file:recon2.png][file:./recon2.png]]
