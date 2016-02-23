@@ -28,6 +28,7 @@ across all all layers. These codes can be thought of as vectors of M binary swit
 
 * Comparsion of randomly selected inputs and their reconstruction 
 ** Reconstruction from first hidden layer
+#+attr_html: :width 200px
 [[./recon1.png]]
 ** Reconstruction from second hidden layer
 [[./recon2.png]]
