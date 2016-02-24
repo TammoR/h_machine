@@ -7,3 +7,4 @@
 - [[file:v3/reportv3.html][Experiment with 1000 MNIST images, all possible digits]]
 * (v3) Deep transposed hamming machine 
 - [[file:v4/reportv4.html][2 hidden layers, 200 mnist images]]
+- [[file:v5/report_v5.html][2 hidden layers toy example with reconstructions]]

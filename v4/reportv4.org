@@ -1,39 +1,7 @@
-#+TITLE: (v2) - Experiment 2
+#+TITLE: (v3) - Experiment 5
+(images are clickable thumbnails)
 
-* Transposed HM
-- The input data is tranposed. This yields codes, S, that have the dimensionality of the training examples (D),
-across all all layers. These codes can be thought of as vectors of M binary switches for every data point D, attempting to  model the behaviour of that data point across all training examples by switching the patterns U on and off. 
-- Having dimensionality D, each of these codes can be converted into the form of an MNIST image. However, most of the interpretable structure resides in the patterns U.
-
-* Sampling overview
-- 200 mnist images, digits: 2,7,9.
-- Codes (U) and input units (S) are random binomial (.5) initialised.
-- Ignoring pixels that are >95% the same across all N brings (obviously) a nice speed up.
-- Lambda is sampled at evey 2nd iteration.
 
 #+attr_html: :width 800px
 [[file:overview.gif][file:./overview.gif]]
 
-* Inferred codes at every sampling step
-** First hidden layer
-#+attr_html: :width 600px
-[[file:layer0.gif][file:./layer0.gif]] 
-** Second hidden layer
-#+attr_html: :width 600px
-[[file:layer1.gif][file:./layer1.gif]]
-
-* Finale codes (average over the last 10 sampling steps)
-** First hidden layer
-#+attr_html: :width 600px
-[[file:./codes1.png][file:./codes1.png]]
-** Second hidden layer
-#+attr_html: :width 600px
-[[file:./codes2.png][file:./codes2.png]]
-
-* Comparsion of randomly selected inputs and their reconstruction 
-** Reconstruction from first hidden layer
-#+attr_html: :width 300px
-[[file:./recon1.png][file:./recon1.png]] 
-** Reconstruction from second hidden layer
-#+attr_html: :width 300px
-[[file:recon2.png][file:./recon2.png]]
