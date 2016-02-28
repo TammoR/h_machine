@@ -1,0 +1,7 @@
+#+TITLE: (v3) - Experiment 6
+(images are clickable thumbnails)
+
+
+#+attr_html: :width 800px
+[[file:overview.gif][file:./no_convergence.png]]
+

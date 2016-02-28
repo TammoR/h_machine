@@ -8,3 +8,5 @@
 * (v3) Deep transposed hamming machine 
 - [[file:v4/reportv4.html][2 hidden layers, 200 mnist images]]
 - [[file:v5/report_v5.html][2 hidden layers toy example with reconstructions]]
+* (v4) Deep untransposed hamming machine
+- [[file:./v5/report_v5.html][No convergence for 2 layers after 20000 iterations]]
