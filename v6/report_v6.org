@@ -3,5 +3,5 @@
 
 
 #+attr_html: :width 800px
-[[file:no_convergence.gif][file:./no_convergence.png]]
+[[file:no_convergence.png][file:./no_convergence.png]]
 
