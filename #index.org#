@@ -1,0 +1,12 @@
+#+TITLE: H Machine Material
+* (v1) Single layer simple Hamming Machine <2015-12-29 Tue>
+- [[http://tammor.github.io/content/hamming_bigger.gif][Example 1]]
+- [[http://tammor.github.io/content/hamming_no_convergence.gif][Example 2 - No convergence]]
+* (v2) Single layer optimised Gibbs sampling <2016-01-26 Tue>
+- [[file:v2/reportv2.html][Experiment with 600 MNIST images limited to 3 digits]]
+- [[file:v3/reportv3.html][Experiment with 1000 MNIST images, all possible digits]]
+* (v3) Deep transposed hamming machine 
+- [[file:v4/reportv4.html][2 hidden layers, 200 mnist images]]
+- [[file:v5/report_v5.html][2 hidden layers toy example with reconstructions]]
+* (v4) Deep untransposed hamming machine
+- [[file:v5/report_v5.html][No convergence for 2 layers after 20000 iterations]]
