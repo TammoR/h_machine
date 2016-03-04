@@ -4,7 +4,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
 <title>(v7) - Deep HM tests</title>
-<!-- 2016-03-04 Fri 18:32 -->
+<!-- 2016-03-04 Fri 18:35 -->
 <meta  http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta  name="generator" content="Org-mode" />
 <meta  name="author" content="Tammo Rukat" />
@@ -158,7 +158,7 @@ for the JavaScript code in this tag.
 <div class="outline-text-2" id="text-1">
 
 <div class="figure">
-<p><img src="./s1.gif" alt="s1.gif" width="800px" />
+<p><a href="s1.gif" width="800px"><img src="./s1.gif" alt="s1.gif" width="800px" /></a>
 </p>
 </div>
 </div>
@@ -169,7 +169,7 @@ for the JavaScript code in this tag.
 <div class="outline-text-2" id="text-2">
 
 <div class="figure">
-<p><img src="./u0.gif" alt="u0.gif" width="800px" />
+<p><a href="u0.gif" width="800px"><img src="./u0.gif" alt="u0.gif" width="800px" /></a>
 </p>
 </div>
 </div>
@@ -180,7 +180,7 @@ for the JavaScript code in this tag.
 <div class="outline-text-2" id="text-3">
 
 <div class="figure">
-<p><img src="./s2.gif" alt="s2.gif" width="800px" />
+<p><a href="s2.gif" width="800px"><img src="./s2.gif" alt="s2.gif" width="800px" /></a>
 </p>
 </div>
 </div>
@@ -191,7 +191,7 @@ for the JavaScript code in this tag.
 <div class="outline-text-2" id="text-4">
 
 <div class="figure">
-<p><img src="./u1.gif" alt="u1.gif" width="800px" />
+<p><a href="u1.gif" width="800px"><img src="./u1.gif" alt="u1.gif" width="800px" /></a>
 </p>
 </div>
 </div>
@@ -199,7 +199,7 @@ for the JavaScript code in this tag.
 </div>
 <div id="postamble" class="status">
 <p class="author">Author: Tammo Rukat</p>
-<p class="date">Created: 2016-03-04 Fri 18:32</p>
+<p class="date">Created: 2016-03-04 Fri 18:35</p>
 <p class="creator"><a href="http://www.gnu.org/software/emacs/">Emacs</a> 24.5.1 (<a href="http://orgmode.org">Org</a> mode 8.2.10)</p>
 <p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>

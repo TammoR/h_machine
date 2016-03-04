@@ -1,6 +1,10 @@
 #+TITLE: (v7) - Deep HM tests
 (images are clickable thumbnails)
 
+** Description
+- We keep all U's and S's except of one fixed to the ML estimate.
+- We expect the remaining variable to converge to the ML estimate and the likelihood to converge to zero.
+
 ** Sampling S1 (here is where the multilayer update happens)
 #+attr_html: :width 800px
 [[file:s1.gif][file:./s1.gif]]
