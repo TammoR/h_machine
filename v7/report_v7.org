@@ -1,0 +1,21 @@
+#+TITLE: (v7) - Deep HM tests
+(images are clickable thumbnails)
+
+** Sampling S1 (here is where the multilayer update happens)
+#+attr_html: :width 800px
+file:./s1.gif
+
+** Sampling U0
+#+attr_html: :width 800px
+file:./u0.gif
+
+** Sampling S2
+#+attr_html: :width 800px
+file:./s2.gif
+
+** Sampling U1
+#+attr_html: :width 800px
+file:./u1.gif
+
+
+

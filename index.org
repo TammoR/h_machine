@@ -5,8 +5,5 @@
 * (v2) Single layer optimised Gibbs sampling <2016-01-26 Tue>
 - [[file:v2/reportv2.html][Experiment with 600 MNIST images limited to 3 digits]]
 - [[file:v3/reportv3.html][Experiment with 1000 MNIST images, all possible digits]]
-* (v3) Deep transposed hamming machine 
-- [[file:v4/reportv4.html][2 hidden layers, 200 mnist images]]
-- [[file:v5/report_v5.html][2 hidden layers toy example with reconstructions]]
-* (v4) Deep untransposed hamming machine
-- [[file:v6/report_v6.html][No global (sparse) minumum for 2 layers after 20000 iterations]]
+* (v6) Testing of the deep HM
+- Sampling from a single variable, while keeping the others fixed at the ML estimate.
