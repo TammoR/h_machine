@@ -4,7 +4,7 @@
 - No sparsity prior
 * Results
 #+attr_html: :width 600px
-[[file:figures/3layer_sampling.png][./figures/3_layer_sampling.png]]
+[[file:figures/3layer_sampling.png][file:./figures/3_layer_sampling.png]]
 
 ** Single neuron beliefs                                                                                     
 #+attr_html: :width 600px
@@ -14,14 +14,14 @@
 [[file:figures/3layer_snb1.png][file:./figures/3layer_snb1.png]]
 
 #+attr_html: :width 600px
-[[file:figures/3layer_snb2.png][./figures/3layer_snb2.png]]
+[[file:figures/3layer_snb2.png][file./figures/3layer_snb2.png]]
 
 ** Randomly selected reconstructions
 #+attr_html: :width 600px
-[[file:figures/3layer_recon1.png][./figures/3layer_recon1.png]]
+[[file:figures/3layer_recon1.png][file:./figures/3layer_recon1.png]]
 
 #+attr_html: :width 600px
-[[file:figures/3layer_recon2.png][./figures/3layer_recon2.png]]
+[[file:figures/3layer_recon2.png][file:./figures/3layer_recon2.png]]
 
 #+attr_html: :width 600px
-[[file:figures/3layer_recon3.png][./figures/3layer_recon3.png]]
+[[file:figures/3layer_recon3.png][file:./figures/3layer_recon3.png]]
