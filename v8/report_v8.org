@@ -17,7 +17,7 @@
 
 *** Layer 1
 #+attr_html: :width 600px
-[[file:figures/3layer_snb2.png][file./figures/3layer_snb2.png]]
+[[file:figures/3layer_snb2.png][file:./figures/3layer_snb2.png]]
 
 ** Randomly selected reconstructions
 *** Layer 1
