@@ -8,10 +8,10 @@
 
 ** Single neuron beliefs                                                                                     
 #+attr_html: :width 600px
-[[file:figures/3layer_snb0.png][./figures/3layer_snb0.png]]
+[[file:figures/3layer_snb0.png][file:./figures/3layer_snb0.png]]
 
 #+attr_html: :width 600px
-[[file:figures/3layer_snb1.png][./figures/3layer_snb1.png]]
+[[file:figures/3layer_snb1.png][file:./figures/3layer_snb1.png]]
 
 #+attr_html: :width 600px
 [[file:figures/3layer_snb2.png][./figures/3layer_snb2.png]]
