@@ -4,7 +4,7 @@
 - No sparsity prior
 * Results
 #+attr_html: :width 600px
-[[file:figures/3layer_sampling.png][file:./figures/3_layer_sampling.png]]
+[[file:figures/3layer_sampling.png][file:./figures/3layer_sampling.png]]
 
 ** Single neuron beliefs    
 *** Layer 3                                                                                 
