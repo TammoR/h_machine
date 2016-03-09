@@ -7,4 +7,5 @@
 - [[file:v3/reportv3.html][Experiment with 1000 MNIST images, all possible digits]]
 * (v6) Testing of the deep HM
 - [[file:v7/report_v7.html][Sampling from a single variable, while keeping the others fixed at the ML estimate.]]
-
+* (v7) MNIST deep hamming machine
+- [[file:v8/report_v8.html][click]]

@@ -1,0 +1,27 @@
+* Description
+- 3 hidden layers with 60, 15, 4 units
+- 200 MNIST images of units 2, 7, 9
+- No sparsity prior
+* Results
+#+attr_html: :width 600px
+[[file:figures/3layer_sampling.png][./figures/3_layer_sampling.png]]
+
+** Single neuron beliefs                                                                                     
+#+attr_html: :width 600px
+[[file:figures/3layer_snb0.png][./figures/3layer_snb0.png]]
+
+#+attr_html: :width 600px
+[[file:figures/3layer_snb1.png][./figures/3layer_snb1.png]]
+
+#+attr_html: :width 600px
+[[file:figures/3layer_snb2.png][./figures/3layer_snb2.png]]
+
+** Randomly selected reconstructions
+#+attr_html: :width 600px
+[[file:figures/3layer_recon1.png][./figures/3layer_recon1.png]]
+
+#+attr_html: :width 600px
+[[file:figures/3layer_recon2.png][./figures/3layer_recon2.png]]
+
+#+attr_html: :width 600px
+[[file:figures/3layer_recon3.png][./figures/3layer_recon3.png]]
