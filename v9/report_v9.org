@@ -1,0 +1,35 @@
+#+TITLE: Three layer HM with 1000 MNIST images
+* Description
+- 3 hidden layers with 50, 15, 3 units
+- 1000 MNIST images of all 10 digits
+- .3 independent Bernoulli sparsity prior
+
+* Results
+#+attr_html: :width 600px
+[[file:figures/3layer_sampling.png][file:./figures/3layer_sampling.png]]
+
+** Single neuron beliefs    
+*** Layer 3                                                                                 
+#+attr_html: :width 600px
+[[file:figures/snb2.png][file:./figures/snb2.png]]
+
+*** Layer 2
+#+attr_html: :width 600px
+[[file:figures/snb1.png][file:./figures/snb1.png]]
+
+*** Layer 1
+#+attr_html: :width 600px
+[[file:figures/snb0.png][file:./figures/snb0.png]]
+
+** Randomly selected reconstructions
+*** Layer 1
+#+attr_html: :width 600px
+[[file:figures/recon0.png][file:./figures/recon0.png]]
+
+*** Layer 2
+#+attr_html: :width 600px
+[[file:figures/recon1.png][file:./figures/recon1.png]]
+
+*** Layer 3
+#+attr_html: :width 600px
+[[file:figures/recon2.png][file:./figures/recon2.png]]
