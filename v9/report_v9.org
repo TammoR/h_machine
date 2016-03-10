@@ -10,26 +10,26 @@
 
 ** Single neuron beliefs    
 *** Layer 3                                                                                 
-#+attr_html: :width 600px
+#+attr_html: :width 400px
 [[file:figures/snb2.png][file:./figures/snb2.png]]
 
 *** Layer 2
-#+attr_html: :width 600px
+#+attr_html: :width 400px
 [[file:figures/snb1.png][file:./figures/snb1.png]]
 
 *** Layer 1
-#+attr_html: :width 600px
-[[file:figures/snb0.png][file:./figures/snb0.png]]
+#+attr_html: :width 400px
+[[file:figures/snb3.png][file:./figures/snb3.png]]
 
 ** Randomly selected reconstructions
 *** Layer 1
-#+attr_html: :width 600px
+#+attr_html: :width 300px
 [[file:figures/recon0.png][file:./figures/recon0.png]]
 
 *** Layer 2
-#+attr_html: :width 600px
+#+attr_html: :width 300px
 [[file:figures/recon1.png][file:./figures/recon1.png]]
 
 *** Layer 3
-#+attr_html: :width 600px
+#+attr_html: :width 300px
 [[file:figures/recon2.png][file:./figures/recon2.png]]
