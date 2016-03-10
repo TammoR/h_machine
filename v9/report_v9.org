@@ -6,7 +6,7 @@
 
 * Results
 #+attr_html: :width 600px
-[[file:figures/3layer_sampling.png][file:./figures/3layer_sampling.png]]
+[[file:figures/sampling.gif][file:./figures/sampling.gif]]
 
 ** Single neuron beliefs    
 *** Layer 3                                                                                 

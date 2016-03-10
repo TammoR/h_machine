@@ -4,7 +4,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
 <title>Three layer HM with 1000 MNIST images</title>
-<!-- 2016-03-10 Thu 11:31 -->
+<!-- 2016-03-10 Thu 11:29 -->
 <meta  http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta  name="generator" content="Org-mode" />
 <meta  name="author" content="Tammo Rukat" />
@@ -183,7 +183,7 @@ for the JavaScript code in this tag.
 <div class="outline-text-2" id="text-2">
 
 <div class="figure">
-<p><a href="figures/sampling.gif" width="600px"><img src="./figures/sampling.gif" alt="sampling.gif" width="600px" /></a>
+<p><a href="figures/3layer_sampling.png" width="600px"><img src="./figures/3layer_sampling.png" alt="3layer_sampling.png" width="600px" /></a>
 </p>
 </div>
 </div>
@@ -265,7 +265,7 @@ for the JavaScript code in this tag.
 </div>
 <div id="postamble" class="status">
 <p class="author">Author: Tammo Rukat</p>
-<p class="date">Created: 2016-03-10 Thu 11:31</p>
+<p class="date">Created: 2016-03-10 Thu 11:29</p>
 <p class="creator"><a href="http://www.gnu.org/software/emacs/">Emacs</a> 24.5.1 (<a href="http://orgmode.org">Org</a> mode 8.2.10)</p>
 <p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
